@@ -1,0 +1,94 @@
+{
+  "teams": [
+    {
+      "name": "Real Madrid",
+      "country": "Spain",
+      "uefa_coefficient": 134.0
+    },
+    {
+      "name": "Manchester City",
+      "country": "England",
+      "uefa_coefficient": 125.0
+    },
+    {
+      "name": "Bayern Munich",
+      "country": "Germany",
+      "uefa_coefficient": 120.0
+    },
+    {
+      "name": "PSG",
+      "country": "France",
+      "uefa_coefficient": 112.0
+    },
+    {
+      "name": "Juventus",
+      "country": "Italy",
+      "uefa_coefficient": 89.0
+    },
+    {
+      "name": "Ajax",
+      "country": "Netherlands",
+      "uefa_coefficient": 68.0
+    },
+    {
+      "name": "Celtic",
+      "country": "Scotland",
+      "uefa_coefficient": 32.0
+    },
+    {
+      "name": "Malm\u00f6 FF",
+      "country": "Sweden",
+      "uefa_coefficient": 28.0
+    }
+  ],
+  "matches": [
+    {
+      "home_team": "Celtic",
+      "away_team": "Malm\u00f6 FF",
+      "home_score": 2,
+      "away_score": 0,
+      "date": "2023-07-19",
+      "round": "Second Qualifying Round",
+      "leg": "First Leg"
+    },
+    {
+      "home_team": "Malm\u00f6 FF",
+      "away_team": "Celtic",
+      "home_score": 1,
+      "away_score": 2,
+      "date": "2023-07-26",
+      "round": "Second Qualifying Round",
+      "leg": "Second Leg"
+    },
+    {
+      "home_team": "Ajax",
+      "away_team": "Juventus",
+      "home_score": 1,
+      "away_score": 3,
+      "date": "2023-08-02",
+      "round": "Third Qualifying Round",
+      "leg": "First Leg"
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "Ajax",
+      "home_score": 2,
+      "away_score": 1,
+      "date": "2023-08-09",
+      "round": "Third Qualifying Round",
+      "leg": "Second Leg"
+    }
+  ],
+  "ties": [
+    {
+      "first_leg_date": "2023-07-19",
+      "second_leg_date": "2023-07-26",
+      "round": "Second Qualifying Round"
+    },
+    {
+      "first_leg_date": "2023-08-02",
+      "second_leg_date": "2023-08-09",
+      "round": "Third Qualifying Round"
+    }
+  ]
+}
