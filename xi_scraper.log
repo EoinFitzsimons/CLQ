@@ -1,0 +1,286 @@
+nohup: ignoring input
+🚀 Starting systematic English league scraping...
+This approach goes through official league fixtures!
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 BUILDING COMPREHENSIVE ENGLISH LEAGUE DATABASE
+======================================================================
+🎯 Target: 500 starting XIs
+📅 Method: Systematic league fixture scraping
+
+
+🏆 PROCESSING PREMIER LEAGUE (GB1)
+--------------------------------------------------
+📅 Season 2023/2024
+🔍 Fetching GB1 season 2023, matchday 1
+✅ Found 10 matches on matchday 1
+🔍 Fetching GB1 season 2023, matchday 2
+✅ Found 10 matches on matchday 2
+🔍 Fetching GB1 season 2023, matchday 3
+✅ Found 10 matches on matchday 3
+🔍 Fetching GB1 season 2023, matchday 4
+✅ Found 10 matches on matchday 4
+🔍 Fetching GB1 season 2023, matchday 5
+✅ Found 10 matches on matchday 5
+🔍 Fetching GB1 season 2023, matchday 6
+✅ Found 10 matches on matchday 6
+🔍 Fetching GB1 season 2023, matchday 7
+✅ Found 10 matches on matchday 7
+🔍 Fetching GB1 season 2023, matchday 8
+✅ Found 10 matches on matchday 8
+🔍 Fetching GB1 season 2023, matchday 9
+✅ Found 10 matches on matchday 9
+🔍 Fetching GB1 season 2023, matchday 10
+✅ Found 10 matches on matchday 10
+🔍 Fetching GB1 season 2023, matchday 11
+✅ Found 10 matches on matchday 11
+🔍 Fetching GB1 season 2023, matchday 12
+✅ Found 10 matches on matchday 12
+🔍 Fetching GB1 season 2023, matchday 13
+✅ Found 10 matches on matchday 13
+🔍 Fetching GB1 season 2023, matchday 14
+✅ Found 10 matches on matchday 14
+🔍 Fetching GB1 season 2023, matchday 15
+✅ Found 10 matches on matchday 15
+🔍 Fetching GB1 season 2023, matchday 16
+✅ Found 10 matches on matchday 16
+🔍 Fetching GB1 season 2023, matchday 17
+✅ Found 10 matches on matchday 17
+🔍 Fetching GB1 season 2023, matchday 18
+✅ Found 10 matches on matchday 18
+🔍 Fetching GB1 season 2023, matchday 19
+✅ Found 10 matches on matchday 19
+🔍 Fetching GB1 season 2023, matchday 20
+✅ Found 10 matches on matchday 20
+🔍 Fetching GB1 season 2023, matchday 21
+✅ Found 10 matches on matchday 21
+🔍 Fetching GB1 season 2023, matchday 22
+✅ Found 10 matches on matchday 22
+🔍 Fetching GB1 season 2023, matchday 23
+✅ Found 10 matches on matchday 23
+🔍 Fetching GB1 season 2023, matchday 24
+✅ Found 10 matches on matchday 24
+🔍 Fetching GB1 season 2023, matchday 25
+✅ Found 10 matches on matchday 25
+🔍 Fetching GB1 season 2023, matchday 26
+✅ Found 10 matches on matchday 26
+🔍 Fetching GB1 season 2023, matchday 27
+✅ Found 10 matches on matchday 27
+🔍 Fetching GB1 season 2023, matchday 28
+✅ Found 10 matches on matchday 28
+🔍 Fetching GB1 season 2023, matchday 29
+✅ Found 10 matches on matchday 29
+🔍 Fetching GB1 season 2023, matchday 30
+✅ Found 10 matches on matchday 30
+🔍 Fetching GB1 season 2023, matchday 31
+✅ Found 10 matches on matchday 31
+🔍 Fetching GB1 season 2023, matchday 32
+✅ Found 10 matches on matchday 32
+🔍 Fetching GB1 season 2023, matchday 33
+✅ Found 10 matches on matchday 33
+🔍 Fetching GB1 season 2023, matchday 34
+✅ Found 10 matches on matchday 34
+🔍 Fetching GB1 season 2023, matchday 35
+✅ Found 10 matches on matchday 35
+🔍 Fetching GB1 season 2023, matchday 36
+✅ Found 10 matches on matchday 36
+🔍 Fetching GB1 season 2023, matchday 37
+✅ Found 10 matches on matchday 37
+🔍 Fetching GB1 season 2023, matchday 38
+✅ Found 10 matches on matchday 38
+📊 Total match IDs found for GB1 2023: 380
+⚽ Processing 380 matches...
+🔍 Match 1/50: 4095360 (Total XIs: 0)
+❌ Error scraping match 4095360: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 2/50: 4095254 (Total XIs: 0)
+❌ Error scraping match 4095254: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 3/50: 4095300 (Total XIs: 0)
+✅ Added Burnley FC (4-4-2) - Total: 1
+✅ Added Fulham FC (4-2-3-1) - Total: 2
+🔍 Match 4/50: 4095249 (Total XIs: 2)
+❌ Error scraping match 4095249: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 5/50: 4095367 (Total XIs: 2)
+❌ Error scraping match 4095367: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 6/50: 4095424 (Total XIs: 2)
+❌ Error scraping match 4095424: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 7/50: 4095239 (Total XIs: 2)
+❌ Error scraping match 4095239: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 8/50: 4087948 (Total XIs: 2)
+❌ Error scraping match 4087948: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 9/50: 4095334 (Total XIs: 2)
+❌ Error scraping match 4095334: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 10/50: 4087947 (Total XIs: 2)
+❌ Error scraping match 4087947: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 11/50: 4095250 (Total XIs: 2)
+❌ Error scraping match 4095250: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 12/50: 4095278 (Total XIs: 2)
+❌ Error scraping match 4095278: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 13/50: 4095143 (Total XIs: 2)
+❌ Error scraping match 4095143: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 14/50: 4095290 (Total XIs: 2)
+❌ Error scraping match 4095290: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 15/50: 4087951 (Total XIs: 2)
+❌ Error scraping match 4087951: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 16/50: 4087924 (Total XIs: 2)
+❌ Error scraping match 4087924: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 17/50: 4095167 (Total XIs: 2)
+❌ Error scraping match 4095167: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 18/50: 4095141 (Total XIs: 2)
+❌ Error scraping match 4095141: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 19/50: 4095456 (Total XIs: 2)
+❌ Error scraping match 4095456: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 20/50: 4095255 (Total XIs: 2)
+❌ Error scraping match 4095255: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 21/50: 4095208 (Total XIs: 2)
+❌ Error scraping match 4095208: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 22/50: 4095420 (Total XIs: 2)
+❌ Error scraping match 4095420: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 23/50: 4087956 (Total XIs: 2)
+❌ Error scraping match 4087956: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 24/50: 4095315 (Total XIs: 2)
+❌ Error scraping match 4095315: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 25/50: 4095406 (Total XIs: 2)
+❌ Error scraping match 4095406: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 26/50: 4095162 (Total XIs: 2)
+❌ Error scraping match 4095162: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 27/50: 4095191 (Total XIs: 2)
+❌ Error scraping match 4095191: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 28/50: 4095404 (Total XIs: 2)
+❌ Error scraping match 4095404: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 29/50: 4095200 (Total XIs: 2)
+❌ Error scraping match 4095200: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 30/50: 4095431 (Total XIs: 2)
+❌ Error scraping match 4095431: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 31/50: 4095136 (Total XIs: 2)
+❌ Error scraping match 4095136: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 32/50: 4095264 (Total XIs: 2)
+❌ Error scraping match 4095264: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 33/50: 4087954 (Total XIs: 2)
+❌ Error scraping match 4087954: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 34/50: 4087952 (Total XIs: 2)
+❌ Error scraping match 4087952: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 35/50: 4095164 (Total XIs: 2)
+❌ Error scraping match 4095164: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 36/50: 4095173 (Total XIs: 2)
+❌ Error scraping match 4095173: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 37/50: 4095229 (Total XIs: 2)
+❌ Error scraping match 4095229: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 38/50: 4095336 (Total XIs: 2)
+❌ Error scraping match 4095336: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 39/50: 4095436 (Total XIs: 2)
+❌ Error scraping match 4095436: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 40/50: 4087964 (Total XIs: 2)
+❌ Error scraping match 4087964: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 41/50: 4095160 (Total XIs: 2)
+❌ Error scraping match 4095160: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 42/50: 4095140 (Total XIs: 2)
+❌ Error scraping match 4095140: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 43/50: 4095327 (Total XIs: 2)
+❌ Error scraping match 4095327: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 44/50: 4095247 (Total XIs: 2)
+❌ Error scraping match 4095247: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 45/50: 4095202 (Total XIs: 2)
+❌ Error scraping match 4095202: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 46/50: 4095259 (Total XIs: 2)
+❌ Error scraping match 4095259: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 47/50: 4087936 (Total XIs: 2)
+❌ Error scraping match 4087936: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 48/50: 4095415 (Total XIs: 2)
+❌ Error scraping match 4095415: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 49/50: 4087937 (Total XIs: 2)
+❌ Error scraping match 4087937: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 50/50: 4095161 (Total XIs: 2)
+❌ Error scraping match 4095161: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+📊 Premier League 2023/2024: Added XIs, total now 2
+📅 Season 2022/2023
+🔍 Fetching GB1 season 2022, matchday 1
+✅ Found 10 matches on matchday 1
+🔍 Fetching GB1 season 2022, matchday 2
+✅ Found 10 matches on matchday 2
+🔍 Fetching GB1 season 2022, matchday 3
+✅ Found 10 matches on matchday 3
+🔍 Fetching GB1 season 2022, matchday 4
+✅ Found 10 matches on matchday 4
+🔍 Fetching GB1 season 2022, matchday 5
+✅ Found 10 matches on matchday 5
+🔍 Fetching GB1 season 2022, matchday 6
+✅ Found 10 matches on matchday 6
+🔍 Fetching GB1 season 2022, matchday 7
+✅ Found 10 matches on matchday 7
+🔍 Fetching GB1 season 2022, matchday 8
+✅ Found 10 matches on matchday 8
+🔍 Fetching GB1 season 2022, matchday 9
+✅ Found 10 matches on matchday 9
+🔍 Fetching GB1 season 2022, matchday 10
+✅ Found 10 matches on matchday 10
+🔍 Fetching GB1 season 2022, matchday 11
+✅ Found 10 matches on matchday 11
+🔍 Fetching GB1 season 2022, matchday 12
+✅ Found 10 matches on matchday 12
+🔍 Fetching GB1 season 2022, matchday 13
+✅ Found 10 matches on matchday 13
+🔍 Fetching GB1 season 2022, matchday 14
+✅ Found 10 matches on matchday 14
+🔍 Fetching GB1 season 2022, matchday 15
+✅ Found 10 matches on matchday 15
+🔍 Fetching GB1 season 2022, matchday 16
+✅ Found 10 matches on matchday 16
+🔍 Fetching GB1 season 2022, matchday 17
+✅ Found 10 matches on matchday 17
+🔍 Fetching GB1 season 2022, matchday 18
+✅ Found 10 matches on matchday 18
+🔍 Fetching GB1 season 2022, matchday 19
+✅ Found 10 matches on matchday 19
+🔍 Fetching GB1 season 2022, matchday 20
+✅ Found 10 matches on matchday 20
+🔍 Fetching GB1 season 2022, matchday 21
+✅ Found 10 matches on matchday 21
+🔍 Fetching GB1 season 2022, matchday 22
+✅ Found 10 matches on matchday 22
+🔍 Fetching GB1 season 2022, matchday 23
+✅ Found 10 matches on matchday 23
+🔍 Fetching GB1 season 2022, matchday 24
+✅ Found 10 matches on matchday 24
+🔍 Fetching GB1 season 2022, matchday 25
+✅ Found 10 matches on matchday 25
+🔍 Fetching GB1 season 2022, matchday 26
+✅ Found 10 matches on matchday 26
+🔍 Fetching GB1 season 2022, matchday 27
+✅ Found 10 matches on matchday 27
+🔍 Fetching GB1 season 2022, matchday 28
+✅ Found 10 matches on matchday 28
+🔍 Fetching GB1 season 2022, matchday 29
+✅ Found 10 matches on matchday 29
+🔍 Fetching GB1 season 2022, matchday 30
+✅ Found 10 matches on matchday 30
+🔍 Fetching GB1 season 2022, matchday 31
+✅ Found 10 matches on matchday 31
+🔍 Fetching GB1 season 2022, matchday 32
+✅ Found 10 matches on matchday 32
+🔍 Fetching GB1 season 2022, matchday 33
+✅ Found 10 matches on matchday 33
+🔍 Fetching GB1 season 2022, matchday 34
+✅ Found 10 matches on matchday 34
+🔍 Fetching GB1 season 2022, matchday 35
+✅ Found 10 matches on matchday 35
+🔍 Fetching GB1 season 2022, matchday 36
+✅ Found 10 matches on matchday 36
+🔍 Fetching GB1 season 2022, matchday 37
+✅ Found 10 matches on matchday 37
+🔍 Fetching GB1 season 2022, matchday 38
+✅ Found 10 matches on matchday 38
+📊 Total match IDs found for GB1 2022: 380
+⚽ Processing 380 matches...
+🔍 Match 1/50: 3838775 (Total XIs: 2)
+❌ Error scraping match 3838775: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 2/50: 3838263 (Total XIs: 2)
+❌ Error scraping match 3838263: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 3/50: 3838800 (Total XIs: 2)
+❌ Error scraping match 3838800: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 4/50: 3838594 (Total XIs: 2)
+❌ Error scraping match 3838594: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 5/50: 3838786 (Total XIs: 2)
+❌ Error scraping match 3838786: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 6/50: 3838670 (Total XIs: 2)
+❌ Error scraping match 3838670: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)
+🔍 Match 7/50: 3838738 (Total XIs: 2)
+❌ Error scraping match 3838738: HTTPSConnectionPool(host='www.transfermarkt.com', port=443): Read timed out. (read timeout=10)

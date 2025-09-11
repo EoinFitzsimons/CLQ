@@ -1,0 +1,1025 @@
+{
+  "version": "2.0",
+  "name": "Super Squadify - English Football Edition",
+  "description": "Enhanced Squadify with thousands of English league players",
+  "total_players": 22,
+  "reset_time": "12:00 EST",
+  "challenges": [
+    {
+      "date": "2025-09-11",
+      "formation": "5-3-2",
+      "squad": [
+        {
+          "name": "Mohamed Salah",
+          "id": "10012",
+          "team": "Liverpool",
+          "season": "17/18",
+          "position": "RW",
+          "number": "75",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Adebayo Akinfenwa",
+          "id": "10019",
+          "team": "Wycombe Wanderers",
+          "season": "19/20",
+          "position": "ST",
+          "number": "31",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Jack Grealish",
+          "id": "10016",
+          "team": "Aston Villa",
+          "season": "18/19",
+          "position": "LW",
+          "number": "37",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Steven Gerrard",
+          "id": "10003",
+          "team": "Liverpool",
+          "season": "04/05",
+          "position": "CM",
+          "number": "40",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Aleksandar Mitrovic",
+          "id": "10017",
+          "team": "Fulham",
+          "season": "21/22",
+          "position": "ST",
+          "number": "26",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 20
+        },
+        {
+          "name": "Harry Kane",
+          "id": "10010",
+          "team": "Tottenham Hotspur",
+          "season": "15/16",
+          "position": "ST",
+          "number": "45",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 35
+        },
+        {
+          "name": "Frank Lampard",
+          "id": "10002",
+          "team": "Chelsea",
+          "season": "04/05",
+          "position": "CM",
+          "number": "8",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 55
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 70
+        },
+        {
+          "name": "Paul Scholes",
+          "id": "10004",
+          "team": "Manchester United",
+          "season": "99/00",
+          "position": "CM",
+          "number": "79",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 35
+        },
+        {
+          "name": "Alan Shearer",
+          "id": "10000",
+          "team": "Newcastle United",
+          "season": "95/96",
+          "position": "ST",
+          "number": "57",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 55
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 2,
+      "stats": {
+        "unique_teams": 10,
+        "unique_seasons": 8,
+        "competitions_represented": [
+          "Championship",
+          "Premier League"
+        ],
+        "oldest_season": "04/05",
+        "newest_season": "99/00",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "formation": "4-5-1",
+      "squad": [
+        {
+          "name": "David Beckham",
+          "id": "10005",
+          "team": "Manchester United",
+          "season": "98/99",
+          "position": "RM",
+          "number": "44",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Thierry Henry",
+          "id": "10001",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LW",
+          "number": "41",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Jack Grealish",
+          "id": "10016",
+          "team": "Aston Villa",
+          "season": "18/19",
+          "position": "LW",
+          "number": "37",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "Rickie Lambert",
+          "id": "10021",
+          "team": "Bristol Rovers",
+          "season": "08/09",
+          "position": "ST",
+          "number": "97",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Adebayo Akinfenwa",
+          "id": "10019",
+          "team": "Wycombe Wanderers",
+          "season": "19/20",
+          "position": "ST",
+          "number": "31",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 20
+        },
+        {
+          "name": "John Terry",
+          "id": "10007",
+          "team": "Chelsea",
+          "season": "04/05",
+          "position": "CB",
+          "number": "47",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 35
+        },
+        {
+          "name": "Virgil van Dijk",
+          "id": "10013",
+          "team": "Liverpool",
+          "season": "18/19",
+          "position": "CB",
+          "number": "42",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 55
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 70
+        },
+        {
+          "name": "Rio Ferdinand",
+          "id": "10008",
+          "team": "Manchester United",
+          "season": "02/03",
+          "position": "CB",
+          "number": "15",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 35
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "id": "10011",
+          "team": "Manchester City",
+          "season": "17/18",
+          "position": "CAM",
+          "number": "68",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 55
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 3,
+      "stats": {
+        "unique_teams": 10,
+        "unique_seasons": 9,
+        "competitions_represented": [
+          "Championship",
+          "Premier League"
+        ],
+        "oldest_season": "02/03",
+        "newest_season": "98/99",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "name": "Alan Shearer",
+          "id": "10000",
+          "team": "Newcastle United",
+          "season": "95/96",
+          "position": "ST",
+          "number": "57",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Frank Lampard",
+          "id": "10002",
+          "team": "Chelsea",
+          "season": "04/05",
+          "position": "CM",
+          "number": "8",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Harry Kane",
+          "id": "10010",
+          "team": "Tottenham Hotspur",
+          "season": "15/16",
+          "position": "ST",
+          "number": "45",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Rio Ferdinand",
+          "id": "10008",
+          "team": "Manchester United",
+          "season": "02/03",
+          "position": "CB",
+          "number": "15",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Steven Gerrard",
+          "id": "10003",
+          "team": "Liverpool",
+          "season": "04/05",
+          "position": "CM",
+          "number": "40",
+          "competition": "Premier League",
+          "position_top": 50,
+          "position_left": 30
+        },
+        {
+          "name": "Ryan Lowe",
+          "id": "10020",
+          "team": "Bury",
+          "season": "10/11",
+          "position": "ST",
+          "number": "21",
+          "competition": "Championship",
+          "position_top": 50,
+          "position_left": 50
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 30,
+          "position_left": 20
+        },
+        {
+          "name": "Thierry Henry",
+          "id": "10001",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LW",
+          "number": "41",
+          "competition": "Premier League",
+          "position_top": 30,
+          "position_left": 40
+        },
+        {
+          "name": "Billy Sharp",
+          "id": "10015",
+          "team": "Sheffield United",
+          "season": "18/19",
+          "position": "ST",
+          "number": "45",
+          "competition": "League Two",
+          "position_top": 30,
+          "position_left": 60
+        },
+        {
+          "name": "Mohamed Salah",
+          "id": "10012",
+          "team": "Liverpool",
+          "season": "17/18",
+          "position": "RW",
+          "number": "75",
+          "competition": "Premier League",
+          "position_top": 10,
+          "position_left": 40
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 2,
+      "stats": {
+        "unique_teams": 10,
+        "unique_seasons": 9,
+        "competitions_represented": [
+          "Championship",
+          "Premier League",
+          "League Two"
+        ],
+        "oldest_season": "02/03",
+        "newest_season": "95/96",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "name": "Alan Shearer",
+          "id": "10000",
+          "team": "Newcastle United",
+          "season": "95/96",
+          "position": "ST",
+          "number": "57",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Frank Lampard",
+          "id": "10002",
+          "team": "Chelsea",
+          "season": "04/05",
+          "position": "CM",
+          "number": "8",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Rio Ferdinand",
+          "id": "10008",
+          "team": "Manchester United",
+          "season": "02/03",
+          "position": "CB",
+          "number": "15",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Adebayo Akinfenwa",
+          "id": "10019",
+          "team": "Wycombe Wanderers",
+          "season": "19/20",
+          "position": "ST",
+          "number": "31",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "Virgil van Dijk",
+          "id": "10013",
+          "team": "Liverpool",
+          "season": "18/19",
+          "position": "CB",
+          "number": "42",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Paul Scholes",
+          "id": "10004",
+          "team": "Manchester United",
+          "season": "99/00",
+          "position": "CM",
+          "number": "79",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 20
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "id": "10011",
+          "team": "Manchester City",
+          "season": "17/18",
+          "position": "CAM",
+          "number": "68",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 35
+        },
+        {
+          "name": "David Beckham",
+          "id": "10005",
+          "team": "Manchester United",
+          "season": "98/99",
+          "position": "RM",
+          "number": "44",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 55
+        },
+        {
+          "name": "Jack Grealish",
+          "id": "10016",
+          "team": "Aston Villa",
+          "season": "18/19",
+          "position": "LW",
+          "number": "37",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 70
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 15,
+          "position_left": 35
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 55
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 3,
+      "stats": {
+        "unique_teams": 9,
+        "unique_seasons": 9,
+        "competitions_represented": [
+          "Championship",
+          "Premier League"
+        ],
+        "oldest_season": "02/03",
+        "newest_season": "99/00",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "formation": "5-3-2",
+      "squad": [
+        {
+          "name": "Thierry Henry",
+          "id": "10001",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LW",
+          "number": "41",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Steven Gerrard",
+          "id": "10003",
+          "team": "Liverpool",
+          "season": "04/05",
+          "position": "CM",
+          "number": "40",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Alan Shearer",
+          "id": "10000",
+          "team": "Newcastle United",
+          "season": "95/96",
+          "position": "ST",
+          "number": "57",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "id": "10011",
+          "team": "Manchester City",
+          "season": "17/18",
+          "position": "CAM",
+          "number": "68",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "Jack Grealish",
+          "id": "10016",
+          "team": "Aston Villa",
+          "season": "18/19",
+          "position": "LW",
+          "number": "37",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Rio Ferdinand",
+          "id": "10008",
+          "team": "Manchester United",
+          "season": "02/03",
+          "position": "CB",
+          "number": "15",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 20
+        },
+        {
+          "name": "Paul Scholes",
+          "id": "10004",
+          "team": "Manchester United",
+          "season": "99/00",
+          "position": "CM",
+          "number": "79",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 35
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 55
+        },
+        {
+          "name": "Ryan Lowe",
+          "id": "10020",
+          "team": "Bury",
+          "season": "10/11",
+          "position": "ST",
+          "number": "21",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 70
+        },
+        {
+          "name": "Virgil van Dijk",
+          "id": "10013",
+          "team": "Liverpool",
+          "season": "18/19",
+          "position": "CB",
+          "number": "42",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 35
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 55
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 3,
+      "stats": {
+        "unique_teams": 9,
+        "unique_seasons": 10,
+        "competitions_represented": [
+          "Championship",
+          "Premier League"
+        ],
+        "oldest_season": "02/03",
+        "newest_season": "99/00",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-16",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "name": "Paul Scholes",
+          "id": "10004",
+          "team": "Manchester United",
+          "season": "99/00",
+          "position": "CM",
+          "number": "79",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Billy Sharp",
+          "id": "10015",
+          "team": "Sheffield United",
+          "season": "18/19",
+          "position": "ST",
+          "number": "45",
+          "competition": "League Two",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Thierry Henry",
+          "id": "10001",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LW",
+          "number": "41",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Jack Grealish",
+          "id": "10016",
+          "team": "Aston Villa",
+          "season": "18/19",
+          "position": "LW",
+          "number": "37",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "Virgil van Dijk",
+          "id": "10013",
+          "team": "Liverpool",
+          "season": "18/19",
+          "position": "CB",
+          "number": "42",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Adebayo Akinfenwa",
+          "id": "10019",
+          "team": "Wycombe Wanderers",
+          "season": "19/20",
+          "position": "ST",
+          "number": "31",
+          "competition": "Championship",
+          "position_top": 50,
+          "position_left": 30
+        },
+        {
+          "name": "Frank Lampard",
+          "id": "10002",
+          "team": "Chelsea",
+          "season": "04/05",
+          "position": "CM",
+          "number": "8",
+          "competition": "Premier League",
+          "position_top": 50,
+          "position_left": 50
+        },
+        {
+          "name": "Rickie Lambert",
+          "id": "10021",
+          "team": "Bristol Rovers",
+          "season": "08/09",
+          "position": "ST",
+          "number": "97",
+          "competition": "Championship",
+          "position_top": 30,
+          "position_left": 20
+        },
+        {
+          "name": "David Beckham",
+          "id": "10005",
+          "team": "Manchester United",
+          "season": "98/99",
+          "position": "RM",
+          "number": "44",
+          "competition": "Premier League",
+          "position_top": 30,
+          "position_left": 40
+        },
+        {
+          "name": "Alan Shearer",
+          "id": "10000",
+          "team": "Newcastle United",
+          "season": "95/96",
+          "position": "ST",
+          "number": "57",
+          "competition": "Premier League",
+          "position_top": 30,
+          "position_left": 60
+        },
+        {
+          "name": "Harry Kane",
+          "id": "10010",
+          "team": "Tottenham Hotspur",
+          "season": "15/16",
+          "position": "ST",
+          "number": "45",
+          "competition": "Premier League",
+          "position_top": 10,
+          "position_left": 40
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 2,
+      "stats": {
+        "unique_teams": 10,
+        "unique_seasons": 9,
+        "competitions_represented": [
+          "Championship",
+          "Premier League",
+          "League Two"
+        ],
+        "oldest_season": "03/04",
+        "newest_season": "99/00",
+        "total_database_size": 22
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "name": "Virgil van Dijk",
+          "id": "10013",
+          "team": "Liverpool",
+          "season": "18/19",
+          "position": "CB",
+          "number": "42",
+          "competition": "Premier League",
+          "position_top": 80,
+          "position_left": 40
+        },
+        {
+          "name": "Rio Ferdinand",
+          "id": "10008",
+          "team": "Manchester United",
+          "season": "02/03",
+          "position": "CB",
+          "number": "15",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 15
+        },
+        {
+          "name": "Rickie Lambert",
+          "id": "10021",
+          "team": "Bristol Rovers",
+          "season": "08/09",
+          "position": "ST",
+          "number": "97",
+          "competition": "Championship",
+          "position_top": 65,
+          "position_left": 30
+        },
+        {
+          "name": "Thierry Henry",
+          "id": "10001",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LW",
+          "number": "41",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 50
+        },
+        {
+          "name": "N'Golo Kante",
+          "id": "10014",
+          "team": "Leicester City",
+          "season": "15/16",
+          "position": "CDM",
+          "number": "99",
+          "competition": "Premier League",
+          "position_top": 65,
+          "position_left": 65
+        },
+        {
+          "name": "Adebayo Akinfenwa",
+          "id": "10019",
+          "team": "Wycombe Wanderers",
+          "season": "19/20",
+          "position": "ST",
+          "number": "31",
+          "competition": "Championship",
+          "position_top": 45,
+          "position_left": 20
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "id": "10011",
+          "team": "Manchester City",
+          "season": "17/18",
+          "position": "CAM",
+          "number": "68",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 35
+        },
+        {
+          "name": "Ashley Cole",
+          "id": "10009",
+          "team": "Arsenal",
+          "season": "03/04",
+          "position": "LB",
+          "number": "28",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 55
+        },
+        {
+          "name": "Mohamed Salah",
+          "id": "10012",
+          "team": "Liverpool",
+          "season": "17/18",
+          "position": "RW",
+          "number": "75",
+          "competition": "Premier League",
+          "position_top": 45,
+          "position_left": 70
+        },
+        {
+          "name": "Eberechi Eze",
+          "id": "10018",
+          "team": "Queens Park Rangers",
+          "season": "19/20",
+          "position": "CAM",
+          "number": "20",
+          "competition": "Championship",
+          "position_top": 15,
+          "position_left": 35
+        },
+        {
+          "name": "David Beckham",
+          "id": "10005",
+          "team": "Manchester United",
+          "season": "98/99",
+          "position": "RM",
+          "number": "44",
+          "competition": "Premier League",
+          "position_top": 15,
+          "position_left": 55
+        }
+      ],
+      "theme": "Premier League All-Stars",
+      "difficulty": 3,
+      "stats": {
+        "unique_teams": 8,
+        "unique_seasons": 8,
+        "competitions_represented": [
+          "Championship",
+          "Premier League"
+        ],
+        "oldest_season": "02/03",
+        "newest_season": "98/99",
+        "total_database_size": 22
+      }
+    }
+  ],
+  "formations": [
+    "4-4-2",
+    "4-3-3",
+    "4-2-3-1",
+    "3-5-2",
+    "5-3-2",
+    "4-5-1",
+    "3-4-3"
+  ],
+  "statistics": {
+    "database_size": 22,
+    "competitions": [
+      "Championship",
+      "Premier League",
+      "League Two"
+    ],
+    "seasons_covered": [
+      "08/09",
+      "98/99",
+      "10/11",
+      "21/22",
+      "03/04",
+      "04/05",
+      "15/16",
+      "95/96",
+      "99/00",
+      "18/19",
+      "17/18",
+      "92/93",
+      "02/03",
+      "19/20"
+    ],
+    "teams_included": 15
+  }
+}
